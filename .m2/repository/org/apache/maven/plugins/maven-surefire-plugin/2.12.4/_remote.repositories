@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 10 09:36:16 UTC 2020
+maven-surefire-plugin-2.12.4.jar>central=
+maven-surefire-plugin-2.12.4.pom>other-mirror=
+maven-surefire-plugin-2.12.4.jar>other-mirror=
+maven-surefire-plugin-2.12.4.pom>central=

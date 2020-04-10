@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 10 09:36:18 UTC 2020
+junit-3.8.2.pom>central=
+junit-3.8.2.pom>other-mirror=
+junit-3.8.2.jar>other-mirror=
+junit-3.8.2.jar>central=

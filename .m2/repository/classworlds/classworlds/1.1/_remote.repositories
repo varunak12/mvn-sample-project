@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 10 09:36:17 UTC 2020
+classworlds-1.1.pom>other-mirror=
+classworlds-1.1.jar>other-mirror=
+classworlds-1.1.jar>central=
+classworlds-1.1.pom>central=

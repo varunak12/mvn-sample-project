@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 10 09:36:17 UTC 2020
+commons-cli-1.0.jar>other-mirror=
+commons-cli-1.0.jar>central=
+commons-cli-1.0.pom>central=
+commons-cli-1.0.pom>other-mirror=

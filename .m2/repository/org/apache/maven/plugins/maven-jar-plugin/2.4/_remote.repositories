@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 10 09:36:16 UTC 2020
+maven-jar-plugin-2.4.jar>central=
+maven-jar-plugin-2.4.pom>central=
+maven-jar-plugin-2.4.pom>other-mirror=
+maven-jar-plugin-2.4.jar>other-mirror=
